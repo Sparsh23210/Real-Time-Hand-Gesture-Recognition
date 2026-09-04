@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+data/
+data.pickle
+*.pickle
+.run-test-backup-*/
+*.zip
+.DS_Store
+Thumbs.db
